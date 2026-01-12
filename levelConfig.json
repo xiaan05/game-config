@@ -1,0 +1,14 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "buttonCount": 1,
+      "sceneName": "Level1"
+    },
+    {
+      "id": 2,
+      "buttonCount": 3,
+      "sceneName": "Level2"
+    }
+  ]
+}
